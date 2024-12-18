@@ -1,0 +1,1 @@
+# snigdhaos-cinnamon-config
