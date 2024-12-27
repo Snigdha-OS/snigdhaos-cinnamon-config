@@ -64,11 +64,6 @@ menus-have-icons=true
 [org/cinnamon/theme]
 name='catppuccin-macchiato-green-standard+default'
 
-[org/gnome/boxes]
-first-run=false
-view='icon-view'
-window-maximized=true
-
 [org/gnome/desktop/a11y]
 always-show-text-caret=false
 
