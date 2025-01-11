@@ -261,11 +261,6 @@ color-scheme='prefer-dark'
 [org/x/editor/plugins]
 active-plugins=['time', 'textsize', 'spell', 'sort', 'open-uri-context-menu', 'modelines', 'joinlines', 'filebrowser', 'docinfo', 'bracketcompletion']
 
-[org/x/editor/plugins/filebrowser/on-load]
-root='file:///'
-tree-view=true
-virtual-root='file:///home/whoami/Desktop'
-
 [org/x/editor/preferences/ui]
 statusbar-visible=true
 
